@@ -14,16 +14,3 @@ Player 1 places first, then Player 2 places. Afterwards, players take turns (sta
 Guesses are again x y coordinates. Do not look at the board when it is the other player's turn.
 The last player to have an unsunk ship wins.
 Have fun!
-
-1  - - - - - - - - - - 			1  - - - - - - - - - - 
-2  - - - - - - - - - - 			2  - - - - - - - - - - 
-3  - - - - - - - - - - 			3  - - - - - - - - - - 
-4  - - - - - - - - - - 			4  - - - - - - - - - - 
-5  - - - - - - - - - - 			5  - - - - - - - - - - 
-6  - - - - - - - - - - 			6  - - - - - - - - - - 
-7  - - - - - - - - - - 			7  - - - - - - - - - - 
-8  - - - - - - - - - - 			8  - - - - - - - - - - 
-9  - - - - - - - - - - 			9  - - - - - - - - - - 
-10 - - - - - - - - - - 			10 - - - - - - - - - - 
-   1 2 3 4 5 6 7 8 9 10 		   1 2 3 4 5 6 7 8 9 10 
-Player 1						Player 2
